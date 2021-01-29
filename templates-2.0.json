@@ -30,7 +30,12 @@
 			"env": [{
 				"name": "MYSQL_ROOT_PASSWORD",
 				"label": "Root password"
-			}],
+			},
+				{
+				"name": "toto",
+				"label": "Le nom de toto"
+			}
+			       ],
 			"ports": [
 				"3306/tcp"
 			],
